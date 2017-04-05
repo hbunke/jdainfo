@@ -1,3 +1,3 @@
-Markdown and static files for ZBW Journal Data Archive. Used as subtree in
-ckanext-edawax
+Markdown and static info files for [ZBW Journal DataArchive](http://journaldata.zbw.eu). 
+Used as submodule in [ckanext-edawax](https://github.com/zbw/ckanext-edawax).
 
